@@ -62,7 +62,7 @@ public class Homework8 {
 				return -1;
 			}
 		}
-		return num;
+		return 2;
 }
 
 	public static void main(String[] args) {
