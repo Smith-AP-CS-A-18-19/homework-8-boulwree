@@ -59,6 +59,10 @@ public class Homework8 {
 			if(num == arr[i]){
 				return num;
 			} else{
+				/* This return should be outside the
+				 * for loop; if the for loop finishes,
+				 * the value was not in the array
+				 */
 				return -1;
 			}
 		}
